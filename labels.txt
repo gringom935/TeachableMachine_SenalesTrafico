@@ -1,0 +1,6 @@
+0 Señales de advertencia de peligro
+1 Señales de prioridad
+2 Señales de restricción de paso
+3 Señales de prohibición o restricción
+4 Señales de obligación
+5 Señales de fin de prohibición o restricción
