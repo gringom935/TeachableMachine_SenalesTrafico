@@ -7,9 +7,10 @@ Partiendo de que el proyecto es de python, debemos tener instalado python en el 
 ### Pre-requisitos :memo:
 
 Instalar keras, tensorflow, pillow:
-	`$ pip install keras`
-	`$ pip install tensorflow`
-	`$ pip install pillow`
+
+	$ pip install keras
+	$ pip install tensorflow
+	$ pip install pillow
 
 ### Pruebas :building_construction:
 
@@ -18,7 +19,8 @@ En la línea de código 13, hay que sustituir el texto "tu-imagen.jpg" por una i
 Además, debemos añadir la imagen a la carpeta donde esté nuestro proyecto para que se pueda identificar.
 
 Después guardaremos el archivo .py y ejecutaremos el siguiente comando:
-	`$ python SenalesTrafico.py`
+
+	$ python SenalesTrafico.py
 
 Nos debe devolver como respuesta el resultado de la predicción con el tipo de señal que estamos intoduciendo.
 
